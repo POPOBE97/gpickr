@@ -1,6 +1,6 @@
 import '../scss/_main.scss';
 
-import Pickr from '@simonwep/pickr';
+import Pickr from '@popobe97/pickr';
 
 import buildGPickr   from './template';
 import simplifyEvent from './utils/simplifyEvent';

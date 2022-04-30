@@ -1,4 +1,4 @@
-import {utils} from '@simonwep/pickr';
+import {utils} from '@popobe97/pickr';
 
 export default () => utils.createFromTemplate(`
 <div class="gpickr" :ref="root">

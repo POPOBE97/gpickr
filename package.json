@@ -1,7 +1,7 @@
 {
-    "name": "gpickr",
+    "name": "@popobe97/gpickr",
     "private": true,
-    "version": "0.0.0",
+    "version": "0.0.1",
     "license": "MIT",
     "author": "Simon Reinisch <toports@gmx.de>",
     "description": "",
@@ -13,7 +13,7 @@
         "lint": "eslint ./src"
     },
     "dependencies": {
-        "@simonwep/pickr": "^1.4.5"
+        "@popobe97/pickr": "git+ssh://git@github.com/POPOBE97/pickr.git#3ace267"
     },
     "devDependencies": {
         "@babel/core": "^7.6.4",
